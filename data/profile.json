@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Gustavo Santos Balula",
+  "photo": "https://avatars.githubusercontent.com/u/138631755?v=4",
+  "job": "Técnico de Suporte Junior RandStad",
+  "location": "Praia Grande- SP",
+  "phone": "(13) 99606-4949",
+  "email": "contatogubalula@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -12,29 +12,29 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Js",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/Git.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Rápida aprendizagem",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -43,8 +43,7 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (iniciante)"
   ],
   "portfolio": [
     {
